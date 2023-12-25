@@ -1,0 +1,5 @@
+google-cloud-bigquery
+pandas_gbq 
+xgboost==1.6.2
+explainable_ai_sdk
+shap
